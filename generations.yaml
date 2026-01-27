@@ -5,6 +5,7 @@ generations:
   - name: "First Generation (UN173)"
     start_year: 1998
     end_year: 2002
+    note: "Production ran from May 1997 to March 2002"
     description: "The original Lincoln Navigator established the full-size luxury SUV segment in the American market, based on the Ford Expedition but with distinctive styling and luxury appointments. Powered by a 5.4-liter V8 engine initially producing 230 horsepower (increased to 300 horsepower in 1999), paired with a four-speed automatic transmission. The exterior featured Lincoln's signature waterfall grille, complex reflector headlights, and substantial chrome accents. The interior offered three rows of leather seating for up to eight passengers, genuine wood trim, and premium audio. Notable features included power-adjustable pedals, automatic climate control, and available satellite navigation—cutting-edge technology for the time. The Navigator's success surprised Lincoln, outselling its German rivals and inspiring competition from American and Japanese manufacturers. This first generation established the Navigator as Lincoln's flagship SUV and helped reshape the American luxury vehicle market by demonstrating the viability of premium SUVs as alternatives to traditional luxury sedans."
 
   - name: "Second Generation (U228)"
