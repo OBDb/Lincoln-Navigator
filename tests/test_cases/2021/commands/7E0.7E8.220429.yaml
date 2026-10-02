@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220429
+test_cases:
+- expected_values:
+    LINCOLN_FUEL_T_7E0: 33.45312
+  response: 7E805620429085D
+- expected_values:
+    LINCOLN_FUEL_T_7E0: 43.96875
+  response: 7E8056204290AFE
+- expected_values:
+    LINCOLN_FUEL_T_7E0: 60.10938
+  response: 7E8056204290F07
+- expected_values:
+    LINCOLN_FUEL_T_7E0: 64.17188
+  response: 7E805620429100B

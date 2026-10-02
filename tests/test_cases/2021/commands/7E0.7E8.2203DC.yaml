@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2203DC
+test_cases:
+- expected_values:
+    LINCOLN_HPFP_DES: 398.85378
+  response: 7E8056203DC0113
+- expected_values:
+    LINCOLN_HPFP_DES: 1115.34022
+  response: 7E8056203DC0301
+- expected_values:
+    LINCOLN_HPFP_DES: 1434.42325
+  response: 7E8056203DC03DD
+- expected_values:
+    LINCOLN_HPFP_DES: 2683.19818
+  response: 7E8056203DC073A

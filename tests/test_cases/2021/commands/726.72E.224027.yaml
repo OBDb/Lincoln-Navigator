@@ -1,0 +1,10 @@
+command_id: 726.72E.224027
+test_cases:
+- expected_values:
+    LINCOLN_12V_AGE: 44496
+    LINCOLN_BATT_AGE: 1825
+  response: 72E05624027073E
+- expected_values:
+    LINCOLN_12V_AGE: 44520
+    LINCOLN_BATT_AGE: 1825
+  response: 72E05624027073F

@@ -1,0 +1,29 @@
+command_id: 726.72E.224029
+test_cases:
+- expected_values:
+    LINCOLN_BATT_TEMP: 30
+  response: '72E0462402946'
+- expected_values:
+    LINCOLN_BATT_TEMP: 31
+  response: '72E0462402947'
+- expected_values:
+    LINCOLN_BATT_TEMP: 32
+  response: '72E0462402948'
+- expected_values:
+    LINCOLN_BATT_TEMP: 33
+  response: '72E0462402949'
+- expected_values:
+    LINCOLN_BATT_TEMP: 34
+  response: 72E046240294A
+- expected_values:
+    LINCOLN_BATT_TEMP: 35
+  response: 72E046240294B
+- expected_values:
+    LINCOLN_BATT_TEMP: 46
+  response: '72E0462402956'
+- expected_values:
+    LINCOLN_BATT_TEMP: 47
+  response: '72E0462402957'
+- expected_values:
+    LINCOLN_BATT_TEMP: 48
+  response: '72E0462402958'

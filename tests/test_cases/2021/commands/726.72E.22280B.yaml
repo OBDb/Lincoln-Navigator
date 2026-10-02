@@ -1,0 +1,57 @@
+command_id: 726.72E.22280B
+test_cases:
+- expected_values:
+    LINCOLN_TYRE_T: 32
+  response: |-
+    72E100C62280B601FC9
+    72E212302B248469300
+- expected_values:
+    LINCOLN_TYRE_T: 40
+  response: |-
+    72E100C62280B601FC9
+    72E212302D05046A100
+- expected_values:
+    LINCOLN_TYRE_T: 44
+  response: |-
+    72E100C62280B601FC9
+    72E212302E45446A900
+- expected_values:
+    LINCOLN_TYRE_T: 29
+  response: |-
+    72E100C62280B601FD8
+    72E21E202B245051D00
+- expected_values:
+    LINCOLN_TYRE_T: 31
+  response: |-
+    72E100C62280B601FD8
+    72E21E202B747052000
+- expected_values:
+    LINCOLN_TYRE_T: 215
+  response: |-
+    72E100C62280B601FD8
+    72E21E202C6FF4BF400
+- expected_values:
+    LINCOLN_TYRE_T: 35
+  response: |-
+    72E100C62280B601FD8
+    72E21E202D04B466A00
+- expected_values:
+    LINCOLN_TYRE_T: 215
+  response: |-
+    72E100C62280B601FD8
+    72E21E202DFFF4B0A00
+- expected_values:
+    LINCOLN_TYRE_T: 30
+  response: |-
+    72E100C62280B601FDA
+    72E21E402A846466100
+- expected_values:
+    LINCOLN_TYRE_T: 31
+  response: |-
+    72E100C62280B601FE0
+    72E218402B74705CA00
+- expected_values:
+    LINCOLN_TYRE_T: 44
+  response: |-
+    72E100C62280B601FE0
+    72E218402DA54461F00
