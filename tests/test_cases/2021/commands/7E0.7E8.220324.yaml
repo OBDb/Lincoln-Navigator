@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220324
+test_cases:
+- expected_values:
+    LINCOLN_HPFP_V: 0.9042
+  response: 7E80562032400B9
+- expected_values:
+    LINCOLN_HPFP_V: 1.24633
+  response: 7E80562032400FF
+- expected_values:
+    LINCOLN_HPFP_V: 1.25122
+  response: '7E8056203240100'
+- expected_values:
+    LINCOLN_HPFP_V: 2.52199
+  response: '7E8056203240204'

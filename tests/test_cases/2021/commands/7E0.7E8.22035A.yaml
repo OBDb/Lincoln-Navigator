@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.22035A
+test_cases:
+- expected_values:
+    LINCOLN_BARO_V: 3.65591
+  response: 7E80562035A02EC
+- expected_values:
+    LINCOLN_BARO_V: 3.6608
+  response: 7E80562035A02ED
+- expected_values:
+    LINCOLN_BARO_V: 3.67546
+  response: 7E80562035A02F0
+- expected_values:
+    LINCOLN_BARO_V: 3.68035
+  response: 7E80562035A02F1
+- expected_values:
+    LINCOLN_BARO_V: 3.68524
+  response: 7E80562035A02F2
+- expected_values:
+    LINCOLN_BARO_V: 3.69013
+  response: 7E80562035A02F3
+- expected_values:
+    LINCOLN_BARO_V: 3.69501
+  response: 7E80562035A02F4
+- expected_values:
+    LINCOLN_BARO_V: 3.6999
+  response: 7E80562035A02F5
+- expected_values:
+    LINCOLN_BARO_V: 3.70479
+  response: 7E80562035A02F6

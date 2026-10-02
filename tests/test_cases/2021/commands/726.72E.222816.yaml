@@ -1,0 +1,10 @@
+command_id: 726.72E.222816
+test_cases:
+- expected_values:
+    LINCOLN_TP_RL: 34.9
+    LINCOLN_TP_RLO: 34.9
+  response: 72E0562281602BA
+- expected_values:
+    LINCOLN_TP_RL: 38
+    LINCOLN_TP_RLO: 38
+  response: 72E0562281602F8
