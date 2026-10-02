@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22031B
+test_cases:
+- expected_values:
+    LINCOLN_VCT_EXH_ERR: 0
+    LINCOLN_[ECU] VCT exhaust error: 0
+  response: 7E80562031B0000
+- expected_values:
+    LINCOLN_VCT_EXH_ERR: 50
+    LINCOLN_[ECU] VCT exhaust error: 50
+  response: 7E80562031BFF19
+- expected_values:
+    LINCOLN_VCT_EXH_ERR: 50
+    LINCOLN_[ECU] VCT exhaust error: 50
+  response: 7E80562031BFFFF

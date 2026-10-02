@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22054D
+test_cases:
+- expected_values:
+    LINCOLN_LPFP_SENS_V: 1.875
+  response: 7E80562054D0780
+- expected_values:
+    LINCOLN_LPFP_SENS_V: 2.24609
+  response: 7E80562054D08FC
+- expected_values:
+    LINCOLN_LPFP_SENS_V: 2.25586
+  response: 7E80562054D0906
+- expected_values:
+    LINCOLN_LPFP_SENS_V: 2.54883
+  response: 7E80562054D0A32

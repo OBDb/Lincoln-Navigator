@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22F43C
+test_cases:
+- expected_values:
+    LINCOLN_CAT_TEMP: 153.9
+  response: 7E80562F43C0793
+- expected_values:
+    LINCOLN_CAT_TEMP: 471.1
+  response: 7E80562F43C13F7
+- expected_values:
+    LINCOLN_CAT_TEMP: 497.6
+  response: 7E80562F43C1500
+- expected_values:
+    LINCOLN_CAT_TEMP: 631.7
+  response: 7E80562F43C1A3D

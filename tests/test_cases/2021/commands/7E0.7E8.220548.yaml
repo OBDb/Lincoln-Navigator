@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.220548
+test_cases:
+- expected_values:
+    LINCOLN_LPFP_ACT: 55.18812
+  response: 7E80562054802F9
+- expected_values:
+    LINCOLN_LPFP_ACT: 58.23398
+  response: '7E8056205480323'

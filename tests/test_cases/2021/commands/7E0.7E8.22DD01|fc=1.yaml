@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.22DD01|fc=1
+test_cases:
+- expected_values:
+    LINCOLN_ODO: 130458
+    LINCOLN_ODO_7E0: 130458
+  response: 7E80662DD0101FD9A
+- expected_values:
+    LINCOLN_ODO: 130459
+    LINCOLN_ODO_7E0: 130459
+  response: 7E80662DD0101FD9B
+- expected_values:
+    LINCOLN_ODO: 130460
+    LINCOLN_ODO_7E0: 130460
+  response: 7E80662DD0101FD9C
+- expected_values:
+    LINCOLN_ODO: 130461
+    LINCOLN_ODO_7E0: 130461
+  response: 7E80662DD0101FD9D
+- expected_values:
+    LINCOLN_ODO: 130462
+    LINCOLN_ODO_7E0: 130462
+  response: 7E80662DD0101FD9E
+- expected_values:
+    LINCOLN_ODO: 130463
+    LINCOLN_ODO_7E0: 130463
+  response: 7E80662DD0101FD9F

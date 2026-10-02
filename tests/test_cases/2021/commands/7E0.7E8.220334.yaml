@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220334
+test_cases:
+- expected_values:
+    LINCOLN_PCM_CYL_HEAD_T_CORR: 63.60938
+  response: 7E8056203340FE7
+- expected_values:
+    LINCOLN_PCM_CYL_HEAD_T_CORR: 84.21875
+  response: 7E805620334150E
+- expected_values:
+    LINCOLN_PCM_CYL_HEAD_T_CORR: 87.8125
+  response: 7E80562033415F4
+- expected_values:
+    LINCOLN_PCM_CYL_HEAD_T_CORR: 88.25
+  response: '7E8056203341610'

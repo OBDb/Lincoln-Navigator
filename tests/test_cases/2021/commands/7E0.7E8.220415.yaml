@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220415
+test_cases:
+- expected_values:
+    LINCOLN_PCM_ENG_EOP_RAW: 90
+  response: 7E805620415005A
+- expected_values:
+    LINCOLN_PCM_ENG_EOP_RAW: 228
+  response: 7E80562041500E4
+- expected_values:
+    LINCOLN_PCM_ENG_EOP_RAW: 466
+  response: 7E80562041501D2
