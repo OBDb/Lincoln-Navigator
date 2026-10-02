@@ -1,0 +1,18 @@
+command_id: 7E0.7E8.220301
+test_cases:
+- expected_values:
+    LINCOLN_MAP_V: 0.27441
+    LINCOLN_[ECU] MAP voltage: 0.27441
+  response: '7E8056203010119'
+- expected_values:
+    LINCOLN_MAP_V: 0.74805
+    LINCOLN_[ECU] MAP voltage: 0.74805
+  response: 7E80562030102FE
+- expected_values:
+    LINCOLN_MAP_V: 1.25098
+    LINCOLN_[ECU] MAP voltage: 1.25098
+  response: '7E8056203010501'
+- expected_values:
+    LINCOLN_MAP_V: 2.9375
+    LINCOLN_[ECU] MAP voltage: 2.9375
+  response: 7E8056203010BC0

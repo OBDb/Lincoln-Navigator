@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220304
+test_cases:
+- expected_values:
+    LINCOLN_CMD_GEN_V: 13.77917
+  response: 7E8056203046E4C
+- expected_values:
+    LINCOLN_CMD_GEN_V: 13.99242
+  response: '7E8056203047001'
+- expected_values:
+    LINCOLN_CMD_GEN_V: 14.34476
+  response: 7E80562030472D3
+- expected_values:
+    LINCOLN_CMD_GEN_V: 14.36818
+  response: '7E8056203047303'

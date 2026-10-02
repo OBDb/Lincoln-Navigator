@@ -1,0 +1,10 @@
+command_id: 7E0.7E8.2203E8
+test_cases:
+- expected_values:
+    LINCOLN_OAR: 0.05255
+    LINCOLN_[ECU] OAR: 0.05255
+  response: 7E8056203E8035D
+- expected_values:
+    LINCOLN_OAR: 0.13397
+    LINCOLN_[ECU] OAR: 0.13397
+  response: 7E8056203E80893

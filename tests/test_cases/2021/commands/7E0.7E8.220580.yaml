@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.220580
+test_cases:
+- expected_values:
+    LINCOLN_GRILL_SHUTTER_POS: 0
+  response: '7E80462058000'
+- expected_values:
+    LINCOLN_GRILL_SHUTTER_POS: 60
+  response: '7E80462058099'
+- expected_values:
+    LINCOLN_GRILL_SHUTTER_POS: 66.66667
+  response: 7E804620580AA
+- expected_values:
+    LINCOLN_GRILL_SHUTTER_POS: 73.33333
+  response: 7E804620580BB
+- expected_values:
+    LINCOLN_GRILL_SHUTTER_POS: 80
+  response: 7E804620580CC
+- expected_values:
+    LINCOLN_GRILL_SHUTTER_POS: 86.66667
+  response: 7E804620580DD
+- expected_values:
+    LINCOLN_GRILL_SHUTTER_POS: 100
+  response: 7E804620580FF

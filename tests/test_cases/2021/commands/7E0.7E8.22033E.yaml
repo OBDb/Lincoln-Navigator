@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22033E
+test_cases:
+- expected_values:
+    LINCOLN_TIP_ABS: 13.78497
+  response: 7E80562033E30AB
+- expected_values:
+    LINCOLN_TIP_ABS: 13.8768
+  response: 7E80562033E30FE
+- expected_values:
+    LINCOLN_TIP_ABS: 13.88786
+  response: 7E80562033E3108
+- expected_values:
+    LINCOLN_TIP_ABS: 25.95787
+  response: 7E80562033E5BA5
