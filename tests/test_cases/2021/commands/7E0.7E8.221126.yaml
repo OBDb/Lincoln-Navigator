@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.221126
+test_cases:
+- expected_values:
+    LINCOLN_ERT: 0
+  response: '7E80462112600'
+- expected_values:
+    LINCOLN_ERT: 43
+  response: 7E8046211262B
+- expected_values:
+    LINCOLN_ERT: 75
+  response: 7E8046211264B
+- expected_values:
+    LINCOLN_ERT: 127
+  response: 7E8046211267F
+- expected_values:
+    LINCOLN_ERT: 164
+  response: 7E804621126A4
+- expected_values:
+    LINCOLN_ERT: 217
+  response: 7E804621126D9
+- expected_values:
+    LINCOLN_ERT: 249
+  response: 7E804621126F9
+- expected_values:
+    LINCOLN_ERT: 255
+  response: 7E804621126FF

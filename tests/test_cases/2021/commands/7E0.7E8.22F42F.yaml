@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F42F
+test_cases:
+- expected_values:
+    LINCOLN_FLI: 23.52941
+  response: 7E80462F42F3C
+- expected_values:
+    LINCOLN_FLI: 29.41176
+  response: 7E80462F42F4B
+- expected_values:
+    LINCOLN_FLI: 49.01961
+  response: 7E80462F42F7D

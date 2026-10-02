@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.22F431
+test_cases:
+- expected_values:
+    LINCOLN_DIST_DTC_CLR: 7812
+  response: 7E80562F4311E84
+- expected_values:
+    LINCOLN_DIST_DTC_CLR: 7813
+  response: 7E80562F4311E85
+- expected_values:
+    LINCOLN_DIST_DTC_CLR: 7814
+  response: 7E80562F4311E86
+- expected_values:
+    LINCOLN_DIST_DTC_CLR: 7815
+  response: 7E80562F4311E87
+- expected_values:
+    LINCOLN_DIST_DTC_CLR: 7816
+  response: 7E80562F4311E88
+- expected_values:
+    LINCOLN_DIST_DTC_CLR: 7817
+  response: 7E80562F4311E89
+- expected_values:
+    LINCOLN_DIST_DTC_CLR: 7818
+  response: 7E80562F4311E8A

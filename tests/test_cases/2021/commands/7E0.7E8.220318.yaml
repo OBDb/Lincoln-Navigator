@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220318
+test_cases:
+- expected_values:
+    LINCOLN_VCT_INT_ACT: 0
+    LINCOLN_[ECU] VCT intake actual: 0
+  response: '7E8056203180000'
+- expected_values:
+    LINCOLN_VCT_INT_ACT: 4080.6875
+    LINCOLN_[ECU] VCT intake actual: 0
+  response: 7E805620318FF0B
+- expected_values:
+    LINCOLN_VCT_INT_ACT: 4095.9375
+    LINCOLN_[ECU] VCT intake actual: 0
+  response: 7E805620318FFFF

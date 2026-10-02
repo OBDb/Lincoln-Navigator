@@ -1,0 +1,20 @@
+command_id: 7E1.7E9.22DD01
+test_cases:
+- expected_values:
+    LINCOLN_TRANS_ODO: 130458
+  response: 7E90662DD0101FD9A
+- expected_values:
+    LINCOLN_TRANS_ODO: 130459
+  response: 7E90662DD0101FD9B
+- expected_values:
+    LINCOLN_TRANS_ODO: 130460
+  response: 7E90662DD0101FD9C
+- expected_values:
+    LINCOLN_TRANS_ODO: 130461
+  response: 7E90662DD0101FD9D
+- expected_values:
+    LINCOLN_TRANS_ODO: 130462
+  response: 7E90662DD0101FD9E
+- expected_values:
+    LINCOLN_TRANS_ODO: 130463
+  response: 7E90662DD0101FD9F

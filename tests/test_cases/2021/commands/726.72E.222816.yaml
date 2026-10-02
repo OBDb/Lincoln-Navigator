@@ -1,0 +1,38 @@
+command_id: 726.72E.222816
+test_cases:
+- expected_values:
+    LINCOLN_TP_RL: 34.9
+    LINCOLN_TP_RLO: 34.9
+  response: 72E0562281602BA
+- expected_values:
+    LINCOLN_TP_RL: 35.15
+    LINCOLN_TP_RLO: 35.15
+  response: 72E0562281602BF
+- expected_values:
+    LINCOLN_TP_RL: 35.25
+    LINCOLN_TP_RLO: 35.25
+  response: 72E0562281602C1
+- expected_values:
+    LINCOLN_TP_RL: 35.4
+    LINCOLN_TP_RLO: 35.4
+  response: 72E0562281602C4
+- expected_values:
+    LINCOLN_TP_RL: 35.5
+    LINCOLN_TP_RLO: 35.5
+  response: 72E0562281602C6
+- expected_values:
+    LINCOLN_TP_RL: 35.65
+    LINCOLN_TP_RLO: 35.65
+  response: 72E0562281602C9
+- expected_values:
+    LINCOLN_TP_RL: 35.9
+    LINCOLN_TP_RLO: 35.9
+  response: 72E0562281602CE
+- expected_values:
+    LINCOLN_TP_RL: 36
+    LINCOLN_TP_RLO: 36
+  response: 72E0562281602D0
+- expected_values:
+    LINCOLN_TP_RL: 36.15
+    LINCOLN_TP_RLO: 36.15
+  response: 72E0562281602D3

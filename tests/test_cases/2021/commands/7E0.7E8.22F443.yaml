@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F443
+test_cases:
+- expected_values:
+    LINCOLN_ENG_LOAD_ACT: 0
+  response: 7E80562F4430000
+- expected_values:
+    LINCOLN_ENG_LOAD_ACT: 50.58824
+  response: 7E80562F4430081
+- expected_values:
+    LINCOLN_ENG_LOAD_ACT: 141.17647
+  response: 7E80562F4430168

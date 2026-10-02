@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2216E8
+test_cases:
+- expected_values:
+    LINCOLN_CMD_GEN_DUTY: 0
+  response: 7E8056216E80000
+- expected_values:
+    LINCOLN_CMD_GEN_DUTY: 41.01888
+  response: 7E8056216E83480
+- expected_values:
+    LINCOLN_CMD_GEN_DUTY: 49.08532
+  response: 7E8056216E83ED3
+- expected_values:
+    LINCOLN_CMD_GEN_DUTY: 49.62247
+  response: 7E8056216E83F83
