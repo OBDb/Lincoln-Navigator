@@ -1,0 +1,14 @@
+command_id: 726.72E.224026
+test_cases:
+- expected_values:
+    LINCOLN_NORM_CUM_DCHG_BAT_OFF: 60.7
+  response: 72E05624026025F
+- expected_values:
+    LINCOLN_NORM_CUM_DCHG_BAT_OFF: 60.8
+  response: '72E056240260260'
+- expected_values:
+    LINCOLN_NORM_CUM_DCHG_BAT_OFF: 60.9
+  response: '72E056240260261'
+- expected_values:
+    LINCOLN_NORM_CUM_DCHG_BAT_OFF: 61
+  response: '72E056240260262'
