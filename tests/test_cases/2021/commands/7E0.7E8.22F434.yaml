@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.22F434
+test_cases:
+- expected_values:
+    LINCOLN_AIR_FUEL_RAT: 0
+  response: 7E80762F43400008000
+- expected_values:
+    LINCOLN_AIR_FUEL_RAT: 11.69956
+  response: 7E80762F434664A7ECE
+- expected_values:
+    LINCOLN_AIR_FUEL_RAT: 14.41111
+  response: 7E80762F4347DFF7FF2
+- expected_values:
+    LINCOLN_AIR_FUEL_RAT: 14.59653
+  response: 7E80762F4347F9E7FFF
+- expected_values:
+    LINCOLN_AIR_FUEL_RAT: 29.2801
+  response: 7E80762F434FFFF815B
+- expected_values:
+    LINCOLN_AIR_FUEL_RAT: 29.2801
+  response: 7E80762F434FFFF8204

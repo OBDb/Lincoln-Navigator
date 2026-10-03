@@ -1,0 +1,32 @@
+command_id: 726.72E.224028
+test_cases:
+- expected_values:
+    LINCOLN_BATT_SOC: 82
+  response: '72E0462402852'
+- expected_values:
+    LINCOLN_BATT_SOC: 83
+  response: '72E0462402853'
+- expected_values:
+    LINCOLN_BATT_SOC: 85
+  response: '72E0462402855'
+- expected_values:
+    LINCOLN_BATT_SOC: 86
+  response: '72E0462402856'
+- expected_values:
+    LINCOLN_BATT_SOC: 87
+  response: '72E0462402857'
+- expected_values:
+    LINCOLN_BATT_SOC: 88
+  response: '72E0462402858'
+- expected_values:
+    LINCOLN_BATT_SOC: 89
+  response: '72E0462402859'
+- expected_values:
+    LINCOLN_BATT_SOC: 90
+  response: 72E046240285A
+- expected_values:
+    LINCOLN_BATT_SOC: 91
+  response: 72E046240285B
+- expected_values:
+    LINCOLN_BATT_SOC: 92
+  response: 72E046240285C
