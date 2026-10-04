@@ -1,0 +1,17 @@
+command_id: 726.72E.22401E
+test_cases:
+- expected_values:
+    LINCOLN_NORM_CUM_CHG_IGN_ON: 129.7
+  response: 72E0562401E0511
+- expected_values:
+    LINCOLN_NORM_CUM_CHG_IGN_ON: 129.8
+  response: 72E0562401E0512
+- expected_values:
+    LINCOLN_NORM_CUM_CHG_IGN_ON: 129.9
+  response: 72E0562401E0513
+- expected_values:
+    LINCOLN_NORM_CUM_CHG_IGN_ON: 130
+  response: 72E0562401E0514
+- expected_values:
+    LINCOLN_NORM_CUM_CHG_IGN_ON: 130.1
+  response: 72E0562401E0515
