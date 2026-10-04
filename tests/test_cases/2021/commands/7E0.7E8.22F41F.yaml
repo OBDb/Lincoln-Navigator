@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F41F
+test_cases:
+- expected_values:
+    LINCOLN_RUN_TIME: 0
+  response: 7E80562F41F0000
+- expected_values:
+    LINCOLN_RUN_TIME: 1022
+  response: 7E80562F41F03FE
+- expected_values:
+    LINCOLN_RUN_TIME: 8216
+  response: 7E80562F41F2018

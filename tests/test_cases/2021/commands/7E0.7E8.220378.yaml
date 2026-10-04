@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220378
+test_cases:
+- expected_values:
+    LINCOLN_GEN_CTRL: 0
+  response: '7E8056203780000'
+- expected_values:
+    LINCOLN_GEN_CTRL: 52.94304
+  response: 7E80562037843C3
+- expected_values:
+    LINCOLN_GEN_CTRL: 69.57644
+  response: 7E805620378590D
