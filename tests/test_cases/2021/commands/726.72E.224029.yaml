@@ -1,0 +1,8 @@
+command_id: 726.72E.224029
+test_cases:
+- expected_values:
+    LINCOLN_BATT_TEMP: 27
+  response: '72E0462402943'
+- expected_values:
+    LINCOLN_BATT_TEMP: 48
+  response: '72E0462402958'
