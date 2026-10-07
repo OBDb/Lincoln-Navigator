@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220403
+test_cases:
+- expected_values:
+    LINCOLN_KS1_RAW: 25
+  response: '7E8056204030019'
+- expected_values:
+    LINCOLN_KS1_RAW: 248
+  response: 7E80562040300F8
+- expected_values:
+    LINCOLN_KS1_RAW: 261
+  response: '7E8056204030105'
+- expected_values:
+    LINCOLN_KS1_RAW: 999
+  response: 7E80562040303E7

@@ -1,0 +1,18 @@
+command_id: 7E0.7E8.220393
+test_cases:
+- expected_values:
+    LINCOLN_AC_P: 112.54929
+    LINCOLN_[ECU] AC Pressure: 112.54929
+  response: '7E8056203930184'
+- expected_values:
+    LINCOLN_AC_P: 148.22858
+    LINCOLN_[ECU] AC Pressure: 148.22858
+  response: 7E80562039301FF
+- expected_values:
+    LINCOLN_AC_P: 222.77798
+    LINCOLN_[ECU] AC Pressure: 222.77798
+  response: '7E8056203930300'
+- expected_values:
+    LINCOLN_AC_P: 333.8769
+    LINCOLN_[ECU] AC Pressure: 333.8769
+  response: 7E805620393047F

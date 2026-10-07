@@ -1,0 +1,18 @@
+command_id: 7E0.7E8.22035F
+test_cases:
+- expected_values:
+    LINCOLN_RO2_V: 0.10938
+    LINCOLN_[ECU] Rear O2 V: 0.10938
+  response: 7E80562035F0070
+- expected_values:
+    LINCOLN_RO2_V: 0.25
+    LINCOLN_[ECU] Rear O2 V: 0.25
+  response: 7E80562035F0100
+- expected_values:
+    LINCOLN_RO2_V: 0.74902
+    LINCOLN_[ECU] Rear O2 V: 0.74902
+  response: 7E80562035F02FF
+- expected_values:
+    LINCOLN_RO2_V: 1
+    LINCOLN_[ECU] Rear O2 V: 1
+  response: 7E80562035F064F

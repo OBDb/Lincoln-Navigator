@@ -1,0 +1,18 @@
+command_id: 7E0.7E8.22030F
+test_cases:
+- expected_values:
+    LINCOLN_CL: 0.70828
+    LINCOLN_[ECU] Commanded lambda: 0.70828
+  response: 7E80562030F5AA9
+- expected_values:
+    LINCOLN_CL: 1
+    LINCOLN_[ECU] Commanded lambda: 1
+  response: 7E80562030F8000
+- expected_values:
+    LINCOLN_CL: 1.11716
+    LINCOLN_[ECU] Commanded lambda: 1.11716
+  response: 7E80562030F8EFF
+- expected_values:
+    LINCOLN_CL: 1.2558
+    LINCOLN_[ECU] Commanded lambda: 1.2558
+  response: 7E80562030FA0BE
