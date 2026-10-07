@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22F4A6
+test_cases:
+- expected_values:
+    LINCOLN_PCM_VEH_ODO: 130458
+  response: 7E80762F4A60013E804
+- expected_values:
+    LINCOLN_PCM_VEH_ODO: 130483.2
+  response: 7E80762F4A60013E900
+- expected_values:
+    LINCOLN_PCM_VEH_ODO: 130636.6
+  response: 7E80762F4A60013EEFE
+- expected_values:
+    LINCOLN_PCM_VEH_ODO: 130753.2
+  response: 7E80762F4A60013F38C
