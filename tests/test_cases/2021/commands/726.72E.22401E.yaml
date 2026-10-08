@@ -4,6 +4,9 @@ test_cases:
     LINCOLN_NORM_CUM_CHG_IGN_ON: 0.3
   response: 72E0562401E0003
 - expected_values:
+    LINCOLN_NORM_CUM_CHG_IGN_ON: 0.5
+  response: 72E0562401E0005
+- expected_values:
     LINCOLN_NORM_CUM_CHG_IGN_ON: 129.7
   response: 72E0562401E0511
 - expected_values:

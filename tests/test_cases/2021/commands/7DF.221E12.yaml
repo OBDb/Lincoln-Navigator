@@ -1,7 +1,7 @@
 command_id: 7DF.221E12
 test_cases:
 - expected_values:
-    LINCOLN_GEAR_V2: 1
+    LINCOLN_GEAR_V2: '1'
   response: 7E904621E1201
 - expected_values:
     LINCOLN_GEAR_V2: PARK
