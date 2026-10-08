@@ -4,6 +4,9 @@ test_cases:
     LINCOLN_NORM_CUM_DCHG_BAT_OFF: 0.1
   response: '72E056240260001'
 - expected_values:
+    LINCOLN_NORM_CUM_DCHG_BAT_OFF: 0.3
+  response: '72E056240260003'
+- expected_values:
     LINCOLN_NORM_CUM_DCHG_BAT_OFF: 60.7
   response: 72E05624026025F
 - expected_values:

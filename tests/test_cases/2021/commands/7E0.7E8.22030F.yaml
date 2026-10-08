@@ -5,9 +5,9 @@ test_cases:
     LINCOLN_[ECU] Commanded lambda: 0.70828
   response: 7E80562030F5AA9
 - expected_values:
-    LINCOLN_CL: 1
-    LINCOLN_[ECU] Commanded lambda: 1
-  response: 7E80562030F8000
+    LINCOLN_CL: 0.96875
+    LINCOLN_[ECU] Commanded lambda: 0.96875
+  response: 7E80562030F7C00
 - expected_values:
     LINCOLN_CL: 1.11716
     LINCOLN_[ECU] Commanded lambda: 1.11716
