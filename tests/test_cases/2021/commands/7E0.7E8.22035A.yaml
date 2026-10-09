@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22035A
 test_cases:
 - expected_values:
-    LINCOLN_BARO_V: 3.65103
-  response: 7E80562035A02EB
+    LINCOLN_BARO_V: 3.6217
+  response: 7E80562035A02E5
 - expected_values:
     LINCOLN_BARO_V: 3.74878
   response: 7E80562035A02FF

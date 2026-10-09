@@ -9,6 +9,6 @@ test_cases:
     LINCOLN_TP_RRO: 38.35
   response: 72E0562281502FF
 - expected_values:
-    LINCOLN_TP_RR: 38.5
-    LINCOLN_TP_RRO: 38.5
-  response: '72E056228150302'
+    LINCOLN_TP_RR: 38.4
+    LINCOLN_TP_RRO: 38.4
+  response: '72E056228150300'
