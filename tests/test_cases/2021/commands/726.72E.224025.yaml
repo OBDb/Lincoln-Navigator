@@ -7,11 +7,17 @@ test_cases:
     LINCOLN_BAT_QUIESCENT: 102
   response: 72E05624025089C
 - expected_values:
+    LINCOLN_BAT_QUIESCENT: 107
+  response: 72E0562402508A6
+- expected_values:
     LINCOLN_BAT_QUIESCENT: 108
   response: 72E0562402508A8
 - expected_values:
     LINCOLN_BAT_QUIESCENT: 113
   response: 72E0562402508B2
+- expected_values:
+    LINCOLN_BAT_QUIESCENT: 114
+  response: 72E0562402508B4
 - expected_values:
     LINCOLN_BAT_QUIESCENT: 117
   response: 72E0562402508BA

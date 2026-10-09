@@ -4,5 +4,5 @@ test_cases:
     LINCOLN_GEAR_V2: 1
   response: 7E904621E1201
 - expected_values:
-    LINCOLN_GEAR_V2: PARK
+    LINCOLN_GEAR_V2: 70
   response: 7E904621E1246
