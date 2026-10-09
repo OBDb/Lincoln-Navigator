@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     LINCOLN_DIST_DTC_CLR: 7936
   response: 7E80562F4311F00
+- expected_values:
+    LINCOLN_DIST_DTC_CLR: 8201
+  response: 7E80562F4312009
