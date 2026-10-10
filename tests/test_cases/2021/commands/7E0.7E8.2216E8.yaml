@@ -4,8 +4,8 @@ test_cases:
     LINCOLN_CMD_GEN_DUTY: 0
   response: 7E8056216E80000
 - expected_values:
+    LINCOLN_CMD_GEN_DUTY: 34.2526
+  response: 7E8056216E82BD7
+- expected_values:
     LINCOLN_CMD_GEN_DUTY: 57.1487
   response: 7E8056216E84925
-- expected_values:
-    LINCOLN_CMD_GEN_DUTY: 57.6889
-  response: 7E8056216E849D6

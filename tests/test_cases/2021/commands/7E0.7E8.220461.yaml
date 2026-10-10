@@ -10,5 +10,5 @@ test_cases:
     LINCOLN_CAT: 8
   response: 7E8056204610C00
 - expected_values:
-    LINCOLN_CAT: 17.29688
-  response: 7E8056204610E53
+    LINCOLN_CAT: 16.73438
+  response: 7E8056204610E2F

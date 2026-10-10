@@ -9,10 +9,6 @@ test_cases:
     LINCOLN_[ECU] OAR: 0.10651
   response: 7E8056203E806D1
 - expected_values:
-    LINCOLN_OAR: 0.15765
-    LINCOLN_[ECU] OAR: 0.15765
-  response: 7E8056203E80A17
-- expected_values:
-    LINCOLN_OAR: 0.33612
-    LINCOLN_[ECU] OAR: 0.33612
-  response: 7E8056203E81583
+    LINCOLN_OAR: 0
+    LINCOLN_[ECU] OAR: -0.06152
+  response: 7E8056203E8FC10

@@ -5,6 +5,18 @@ test_cases:
     LINCOLN_BATT_AGE: 1
   response: '72E056240270001'
 - expected_values:
+    LINCOLN_12V_AGE: 48
+    LINCOLN_BATT_AGE: 2
+  response: '72E056240270002'
+- expected_values:
+    LINCOLN_12V_AGE: 72
+    LINCOLN_BATT_AGE: 3
+  response: '72E056240270003'
+- expected_values:
+    LINCOLN_12V_AGE: 96
+    LINCOLN_BATT_AGE: 4
+  response: '72E056240270004'
+- expected_values:
     LINCOLN_12V_AGE: 44496
     LINCOLN_BATT_AGE: 1825
   response: 72E05624027073E
