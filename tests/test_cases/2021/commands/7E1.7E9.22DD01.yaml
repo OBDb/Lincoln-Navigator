@@ -4,8 +4,11 @@ test_cases:
     LINCOLN_TRANS_ODO: 130458
   response: 7E90662DD0101FD9A
 - expected_values:
-    LINCOLN_TRANS_ODO: 130507
-  response: 7E90662DD0101FDCB
-- expected_values:
     LINCOLN_TRANS_ODO: 130570
   response: 7E90662DD0101FE0A
+- expected_values:
+    LINCOLN_TRANS_ODO: 130793
+  response: 7E90662DD0101FEE9
+- expected_values:
+    LINCOLN_TRANS_ODO: 130847
+  response: 7E90662DD0101FF1F
