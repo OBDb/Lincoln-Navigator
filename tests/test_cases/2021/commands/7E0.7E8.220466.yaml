@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.220466
 test_cases:
 - expected_values:
-    LINCOLN_TIP_DES_ABS: 13.57585
-  response: 7E8056204662FEE
+    LINCOLN_TIP_DES_ABS: 13.48844
+  response: 7E8056204662F9F
 - expected_values:
     LINCOLN_TIP_DES_ABS: 13.59466
   response: 7E8056204662FFF

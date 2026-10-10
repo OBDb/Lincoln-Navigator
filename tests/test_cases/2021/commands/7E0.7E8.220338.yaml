@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.220338
 test_cases:
 - expected_values:
-    LINCOLN_ETC_TRIM_LEARNED: 0.43359
-  response: 7E80562033800DE
+    LINCOLN_ETC_TRIM_LEARNED: 0.375
+  response: 7E80562033800C0
 - expected_values:
     LINCOLN_ETC_TRIM_LEARNED: 0.49609
   response: 7E80562033800FE
