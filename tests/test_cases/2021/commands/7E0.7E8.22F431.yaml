@@ -1,11 +1,14 @@
 command_id: 7E0.7E8.22F431
 test_cases:
 - expected_values:
-    LINCOLN_DIST_DTC_CLR: 7812
+    NAVIGATOR_DIST_DTC_CLR: 7812
   response: 7E80562F4311E84
 - expected_values:
-    LINCOLN_DIST_DTC_CLR: 7933
+    NAVIGATOR_DIST_DTC_CLR: 7933
   response: 7E80562F4311EFD
 - expected_values:
-    LINCOLN_DIST_DTC_CLR: 7936
+    NAVIGATOR_DIST_DTC_CLR: 7936
   response: 7E80562F4311F00
+- expected_values:
+    NAVIGATOR_DIST_DTC_CLR: 8201
+  response: 7E80562F4312009

@@ -1,8 +1,8 @@
 command_id: 7DF.221E12
 test_cases:
 - expected_values:
-    LINCOLN_GEAR_V2: 1
+    NAVIGATOR_GEAR_7DF: '1'
   response: 7E904621E1201
 - expected_values:
-    LINCOLN_GEAR_V2: PARK
+    NAVIGATOR_GEAR_7DF: PARK
   response: 7E904621E1246
