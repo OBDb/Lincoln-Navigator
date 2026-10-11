@@ -1,4 +1,8 @@
-{ "commands": [
+{ "ecu": [
+    { "hdr": "7E0", "type": "engine" },
+    { "hdr": "7E1", "type": "transmission" }
+  ],
+  "commands": [
 { "hdr": "703", "rax": "70B", "dbg": true, "cmd": {"22": "017C"}, "freq": 1,
   "signals": [
     {"id": "NAVIGATOR_ACTUATOR_CAM_POS", "path": "Engine", "fmt": { "len": 16, "max": 1023, "div": 64, "unit": "degrees" }, "name": "Actuator cam position corrected"}
