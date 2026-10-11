@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.220461
 test_cases:
 - expected_values:
-    LINCOLN_CAT: -5.5625
+    NAVIGATOR_CAT: -5.5625
   response: 7E805620461089C
 - expected_values:
-    LINCOLN_CAT: 3.95312
+    NAVIGATOR_CAT: 3.95312
   response: 7E8056204610AFD
 - expected_values:
-    LINCOLN_CAT: 8
+    NAVIGATOR_CAT: 8
   response: 7E8056204610C00
 - expected_values:
-    LINCOLN_CAT: 17.29688
-  response: 7E8056204610E53
+    NAVIGATOR_CAT: 16.73438
+  response: 7E8056204610E2F
