@@ -61,7 +61,7 @@
   ]},
 { "hdr": "726", "rax": "72E", "cmd": {"22": "280B"}, "freq": 5, "dbgfilter": { "to": 2020, "from": 2022 },
   "signals": [
-    {"id": "NAVIGATOR_TYRE_T", "path": "Tires", "fmt": {"bix": 48, "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Tire temperature"}
+    {"id": "NAVIGATOR_TYRE_T", "path": "Tires", "fmt": {"bix": 48, "len": 8, "max": 215, "min": -40, "add": -40, "nullmax": 215, "unit": "celsius" }, "name": "Tire temperature"}
   ]},
 { "hdr": "726", "rax": "72E", "cmd": {"22": "2813"}, "freq": 5, "dbgfilter": { "to": 2020, "from": 2022 },
   "signals": [
@@ -81,11 +81,11 @@
   ]},
 { "hdr": "726", "rax": "72E", "cmd": {"22": "2817"}, "freq": 5, "dbgfilter": { "to": 2020, "from": 2022 },
   "signals": [
-    {"id": "NAVIGATOR_TP_RRI", "path": "Tires", "fmt": { "len": 16, "max": 3276, "div": 20, "unit": "psi" }, "name": "Tire pressure, rear right inner"}
+    {"id": "NAVIGATOR_TP_RRI", "path": "Tires", "fmt": { "len": 16, "max": 150, "div": 20, "nullmax": 150, "unit": "psi" }, "name": "Tire pressure, rear right inner"}
   ]},
 { "hdr": "726", "rax": "72E", "cmd": {"22": "2818"}, "freq": 5, "dbgfilter": { "to": 2020, "from": 2022 },
   "signals": [
-    {"id": "NAVIGATOR_TP_RLI", "path": "Tires", "fmt": { "len": 16, "max": 3276, "div": 20, "unit": "psi" }, "name": "Tire pressure, rear left inner"}
+    {"id": "NAVIGATOR_TP_RLI", "path": "Tires", "fmt": { "len": 16, "max": 150, "div": 20, "nullmax": 150, "unit": "psi" }, "name": "Tire pressure, rear left inner"}
   ]},
 { "hdr": "726", "rax": "72E", "cmd": {"22": "401E"}, "freq": 1, "dbgfilter": { "to": 2020, "from": 2022 },
   "signals": [
@@ -1228,7 +1228,7 @@
   ]},
 { "hdr": "7E1", "rax": "7E9", "cmd": {"22": "DD01"}, "freq": 30, "dbgfilter": { "to": 2020, "from": 2022 },
   "signals": [
-    {"id": "NAVIGATOR_TRANS_ODO", "path": "Transmission", "fmt": { "len": 24, "max": 16777215, "unit": "celsius" }, "name": "Transmission odometer"}
+    {"id": "NAVIGATOR_TRANS_ODO", "path": "Transmission", "fmt": { "len": 24, "max": 16777215, "unit": "kilometers" }, "name": "Transmission odometer"}
   ]}
 ]
 }
