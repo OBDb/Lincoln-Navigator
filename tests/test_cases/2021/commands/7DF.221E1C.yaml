@@ -4,8 +4,8 @@ test_cases:
     NAVIGATOR_TOT: 32.6875
   response: 7E905621E1C020B
 - expected_values:
-    NAVIGATOR_TOT: 63.9375
-  response: 7E905621E1C03FF
+    NAVIGATOR_TOT: 47.9375
+  response: 7E905621E1C02FF
 - expected_values:
     NAVIGATOR_TOT: 64
   response: 7E905621E1C0400
