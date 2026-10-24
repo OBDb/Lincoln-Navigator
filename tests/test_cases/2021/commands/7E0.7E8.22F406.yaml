@@ -4,5 +4,5 @@ test_cases:
     NAVIGATOR_STFT: -16.40625
   response: 7E80462F4066B
 - expected_values:
-    NAVIGATOR_STFT: 10.15625
-  response: 7E80462F4068D
+    NAVIGATOR_STFT: 10.9375
+  response: 7E80462F4068E
