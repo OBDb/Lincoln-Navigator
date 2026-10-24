@@ -267,9 +267,9 @@
   ]},
 { "hdr": "7D0", "rax": "7D8", "cmd": {"22": "8012"}, "freq": 0.25, "dbgfilter": { "to": 2020, "from": 2022 },
   "signals": [
-    {"id": "NAVIGATOR_SYNC_GPS_ALTITUDE", "path": "Engine",   "fmt": {            "len": 16, "max": 65535,                       "unit": "scalar"            }, "name": "Navigation altitude"},
-    {"id": "NAVIGATOR_SYNC_GPS_SPD",      "path": "Movement", "fmt": {"bix": 88,  "len": 16, "max": 235926, "mul": 18, "div": 5, "unit": "kilometersPerHour" }, "name": "Navigation speed"},
-    {"id": "NAVIGATOR_SYNC_GPS_HEADING",  "path": "Engine",   "fmt": {"bix": 104, "len": 16, "max": 65535,                       "unit": "degrees"           }, "name": "Navigation heading"}
+    {"id": "NAVIGATOR_SYNC_GPS_ALTITUDE", "path": "Engine",   "fmt": {            "len": 16, "max": 65535,                                         "unit": "scalar"            }, "name": "Navigation altitude"},
+    {"id": "NAVIGATOR_SYNC_GPS_SPD",      "path": "Movement", "fmt": {"bix": 88,  "len": 16, "max": 235926, "mul": 18, "div": 5, "nullmax": 406.7, "unit": "kilometersPerHour" }, "name": "Navigation speed"},
+    {"id": "NAVIGATOR_SYNC_GPS_HEADING",  "path": "Engine",   "fmt": {"bix": 104, "len": 16, "max": 65535,                                         "unit": "degrees"           }, "name": "Navigation heading"}
   ]},
 { "hdr": "7DF", "dbg": true, "cmd": {"22": "1310"}, "freq": 30,
   "signals": [
