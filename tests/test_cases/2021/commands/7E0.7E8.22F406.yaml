@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22F406
 test_cases:
 - expected_values:
-    NAVIGATOR_STFT: -16.40625
-  response: 7E80462F4066B
+    NAVIGATOR_STFT: -17.96875
+  response: 7E80462F40669
 - expected_values:
-    NAVIGATOR_STFT: 10.9375
-  response: 7E80462F4068E
+    NAVIGATOR_STFT: 14.84375
+  response: 7E80462F40693
