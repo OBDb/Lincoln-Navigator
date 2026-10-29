@@ -7,8 +7,8 @@ test_cases:
     NAVIGATOR_ECT: 75.98438
   response: 7E80562038F12FF
 - expected_values:
-    NAVIGATOR_ECT: 76.01562
-  response: 7E80562038F1301
+    NAVIGATOR_ECT: 80
+  response: 7E80562038F1400
 - expected_values:
     NAVIGATOR_ECT: 84.10938
   response: 7E80562038F1507
