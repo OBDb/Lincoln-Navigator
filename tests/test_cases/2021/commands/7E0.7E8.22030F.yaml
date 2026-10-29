@@ -10,5 +10,5 @@ test_cases:
     NAVIGATOR_CL: 1.11716
   response: 7E80562030F8EFF
 - expected_values:
-    NAVIGATOR_CL: 1.2558
-  response: 7E80562030FA0BE
+    NAVIGATOR_CL: 1.26242
+  response: 7E80562030FA197
