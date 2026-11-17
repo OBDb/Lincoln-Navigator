@@ -7,5 +7,5 @@ test_cases:
     NAVIGATOR_OAR: 0.10651
   response: 7E8056203E806D1
 - expected_values:
-    NAVIGATOR_OAR: 0
+    NAVIGATOR_OAR: -0.06152
   response: 7E8056203E8FC10
